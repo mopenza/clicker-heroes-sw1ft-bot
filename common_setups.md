@@ -2,7 +2,7 @@
 
 ## Global Settings
 
-    optimalLevel := 2000
+    optimalLevel := 1250
 
     autoAscend := true
     saveBeforeAscending := true
@@ -10,12 +10,12 @@
 ## Speed Run
 
     useImageSearch := false
-    gildedRanger := 6 ; Lilin
+    gildedRanger := 3 ; Lilin
 
 #### Idle
 
-    irisLevel := 1029
-    speedRunTime := 29
+    irisLevel := 35
+    speedRunTime := 36
 
     activateSkillsAtStart := true
     deepRunClicks := false
@@ -25,7 +25,7 @@
 
 #### Hybrid
 
-    irisLevel := 1199
+    irisLevel := 35
     speedRunTime := 23
     deepRunTime := 6
 
@@ -46,7 +46,7 @@
 ## Vision Run
 
     useImageSearch := true
-    gildedRanger := 6 ; Lilin
+    gildedRanger := 3 ; Lilin
 
     clickableHuntDelay := 8
     stopHuntThreshold := 0
@@ -56,7 +56,7 @@
 
 #### Idle
 
-    irisLevel := 1029
+    irisLevel := 35
     endLvlIdle := optimalLevel
     endLvlActive := 0
 
@@ -65,7 +65,7 @@
 
 #### Hybrid
 
-    irisLevel := 1199
+    irisLevel := 35
     endLvlIdle := optimalLevel
     endLvlActive := 2200
 
@@ -77,7 +77,7 @@
 
 #### Active
 
-    gildedRanger := 7 ; Cadmia
+    gildedRanger := 3 ; Cadmia
 
     irisLevel := 1669
     endLvlIdle := 0
